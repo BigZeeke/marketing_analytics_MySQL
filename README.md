@@ -43,6 +43,8 @@ Every module includes:
 
 **Total: ~11 hours of active learning**
 
+📚 [Browse the full training curriculum →](training/README.md)
+
 ---
 
 ## Questions This Course Teaches You to Answer
